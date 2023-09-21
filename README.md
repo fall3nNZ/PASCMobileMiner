@@ -1,10 +1,7 @@
-# Verus Miner 9000
+# PASC Mobile Miner 
+THIS IS A TRIAL AND NOT IN CURRENT USE!!!! 
+A high performance and open-source application for mining PASC coin on Android mobile devices.
 
-A high performance and open-source application for mining Veruscoin on Android mobile devices.
-
-<p align="center">
-  <img src="https://wiki.veruscoin.io/img/favicon.png" width="128" title="Veruscoin">
-</p>
 
 ## Supported CPU instruction sets
 - **arm64-v8a**
@@ -23,7 +20,7 @@ A high performance and open-source application for mining Veruscoin on Android m
 This application is built upon the libraries of ccminer
 - Miner: [ccminer](https://github.com/monkins1010/ccminer)
 - Android port: [ccminer](https://github.com/shmutalov/ccminer)
-- Algorithm: [Verushash](https://veruscoin.io/downloads/VerusVision.pdf)
+- Algorithm: Randomhash2
 
 ## Usage
 ### Settings
@@ -72,6 +69,7 @@ The application will keep mining even when your device is on standby mode. So ke
 * VRSC: `RKE5YdseSU6becMtpHKn4z9N4ahRkqm1cV`
 
 ## Credits
+* Forked from Verus Miner
 * Forked from [MobileMiner](https://github.com/scala-network/MobileMiner)
 * Forked from [Mine2gether](https://github.com/Mine2Gether/m2g_android_miner)
 * Original code from [MoneroMiner](https://github.com/upost/MoneroMiner)
